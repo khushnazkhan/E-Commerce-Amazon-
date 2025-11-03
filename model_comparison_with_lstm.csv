@@ -1,0 +1,5 @@
+,LSTM
+accuracy,0.25020005334755935
+f1_macro,0.10006400682739493
+precision_macro,0.06255001333688984
+recall_macro,0.25
